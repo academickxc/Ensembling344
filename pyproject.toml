@@ -1,0 +1,3 @@
+[project]
+name = "Ensembling-344"
+dependencies = ["fetchucirepo"]
