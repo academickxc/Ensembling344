@@ -1,4 +1,4 @@
-# need to add ucimlrepo as a dependency
+# ucimlrepo is a dependency
 from ucimlrepo import fetch_ucirepo 
   
 # fetch dataset 
