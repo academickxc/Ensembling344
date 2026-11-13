@@ -13,3 +13,5 @@ print(bike_sharing.metadata)
   
 # variable information 
 print(bike_sharing.variables) 
+
+# some EDA
